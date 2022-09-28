@@ -1,0 +1,19 @@
+.display{
+    background-image: url("https://cdn.pixabay.com/photo/2015/02/18/18/48/india-641141_960_720.png");
+    background-size: auto;
+}
+.display{
+
+    border: rgb(82, 24, 3) solid 1rem;
+    padding: 173px;
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    width: 450px;
+    margin: auto;
+}
+
+.countdown{
+    color: rgb(255, 140, 0);
+}
+
